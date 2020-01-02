@@ -1,1 +1,3 @@
-# Eng_to_Italian
+# A Many to Many sequential model, translating Eng to Italian
+
+Character level
